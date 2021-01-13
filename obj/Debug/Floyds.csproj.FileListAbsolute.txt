@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Floyds\Floyds\bin\Debug\Floyds.exe.config
+C:\Users\Dell\source\repos\Floyds\Floyds\bin\Debug\Floyds.exe
+C:\Users\Dell\source\repos\Floyds\Floyds\bin\Debug\Floyds.pdb
+C:\Users\Dell\source\repos\Floyds\Floyds\obj\Debug\Floyds.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Floyds\Floyds\obj\Debug\Floyds.FloydsWinForm.resources
+C:\Users\Dell\source\repos\Floyds\Floyds\obj\Debug\Floyds.Properties.Resources.resources
+C:\Users\Dell\source\repos\Floyds\Floyds\obj\Debug\Floyds.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Floyds\Floyds\obj\Debug\Floyds.exe
+C:\Users\Dell\source\repos\Floyds\Floyds\obj\Debug\Floyds.pdb
+C:\Users\Dell\source\repos\Floyds\Floyds\bin\Debug\Floyds.exe.manifest
+C:\Users\Dell\source\repos\Floyds\Floyds\bin\Debug\Floyds.application
+C:\Users\Dell\source\repos\Floyds\Floyds\obj\Debug\Floyds.exe.manifest
+C:\Users\Dell\source\repos\Floyds\Floyds\obj\Debug\Floyds.application

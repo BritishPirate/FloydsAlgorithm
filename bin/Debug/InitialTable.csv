@@ -1,0 +1,21 @@
+City,Oradea,Zerind,Arad,Timisoara,Lugoj,Mehadia,Dobreta,Sibiu,Rimnicu Vilcea,Craiova,Fagaras,Pitesti,Bucharest,Giurgiu,Neamt,Lasi,Vaslui,Urziceni,Hirsova,Eforie
+Oradea,n,71,n,n,n,n,n,151,n,n,n,n,n,n,n,n,n,n,n,n
+Zerind,71,n,75,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+Arad,n,75,n,118,n,n,n,151,n,n,n,n,n,n,n,n,n,n,n,n
+Timisoara,n,n,118,n,111,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+Lugoj,n,n,n,111,n,70,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+Mehadia,n,n,n,n,70,n,75,n,n,n,n,n,n,n,n,n,n,n,n,n
+Dobreta,n,n,n,n,n,75,n,n,n,120,n,n,n,n,n,n,n,n,n,n
+Sibiu,151,n,151,n,n,n,n,n,80,n,99,n,n,n,n,n,n,n,n,n
+Rimnicu Vilcea,n,n,n,n,n,n,n,80,n,146,n,97,n,n,n,n,n,n,n,n
+Craiova,n,n,n,n,n,n,120,n,146,n,n,138,n,n,n,n,n,n,n,n
+Fagaras,n,n,n,n,n,n,n,99,n,n,n,n,211,n,n,n,n,n,n,n
+Pitesti,n,n,n,n,n,n,n,n,97,138,n,n,101,n,n,n,n,n,n,n
+Bucharest,n,n,n,n,n,n,n,n,n,n,211,101,n,90,n,n,n,85,n,n
+Giurgiu,n,n,n,n,n,n,n,n,n,n,n,n,90,n,n,n,n,n,n,n
+Neamt,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,87,n,n,n,n
+Lasi,n,n,n,n,n,n,n,n,n,n,n,n,n,n,87,n,92,n,n,n
+Vaslui,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,92,n,142,n,n
+Urziceni,n,n,n,n,n,n,n,n,n,n,n,n,85,n,n,n,142,n,98,n
+Hirsova,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,98,n,86
+Eforie,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,86,n
